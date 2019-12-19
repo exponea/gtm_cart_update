@@ -1,5 +1,5 @@
 homepage: "https://exponea.com/"
 documentation: "https://github.com/exponea/gtm_cart_update/blob/master/README.md"
 versions:
-  - sha: a2f7f706b5f07d9cbcd7c1e3d0741489b6cf52fa
+  - sha: 7853efe3f9855436e128a2bfcbdadc9abd867088
     changeNotes: Initial release.
